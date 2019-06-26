@@ -2,7 +2,7 @@ const contracts = require('./artifacts')().contracts;
 
 const rawTransaction = {
   nonce: 0,
-  gasPrice: 100000000000,
+  gasPrice: 0,
   value: 0,
   data: '0x' + contracts.ERC1820Registry.ERC1820Registry.bin,
   gasLimit: 800000,
