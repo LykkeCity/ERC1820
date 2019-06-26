@@ -18,9 +18,9 @@ The official proposal can be found at: [eips.ethereum.org/EIPS/eip-1820][ERC1820
 
 This repository contains the official implementation of the [ERC1820 registry] as defined in the [standard][ERC1820].
 
-The address of the registry on **all chains** is:
+The address of the registry on **all Quorum chains** (is contract has been deployed) is:
 
-<h4><pre>0x1820a4B7618BdE71Dce8cdc73aAB6C95905faD24</pre></h4>
+<h4><pre>0x182085C0842e892308C04785C074E6a2D5aB0a84</pre></h4>
 
 ## ERC1820 Implementer
 
